@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboFood", "RoboFood\RoboFood.csproj", "{4AFB6789-2F77-4FB5-A71D-0C7D0D270EE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AFB6789-2F77-4FB5-A71D-0C7D0D270EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFB6789-2F77-4FB5-A71D-0C7D0D270EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFB6789-2F77-4FB5-A71D-0C7D0D270EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFB6789-2F77-4FB5-A71D-0C7D0D270EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18D47260-CE71-4F60-A705-549071942777}
+	EndGlobalSection
+EndGlobal
